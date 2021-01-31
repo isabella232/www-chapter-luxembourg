@@ -1,10 +1,10 @@
 ---
 
-title: PastEvents
+title: pastevents
 displaytext: Upcoming & Past Events
 layout: null
 tab: true
-order: 2
+order: 3
 tags: Luxembourg
 
 ---
