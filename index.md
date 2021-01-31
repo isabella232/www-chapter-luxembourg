@@ -5,7 +5,6 @@ title: OWASP Luxembourg Chapter
 tags: luxembourg 
 level: 0
 region: Europe
-auto-migrated: 1
 
 ---
 
