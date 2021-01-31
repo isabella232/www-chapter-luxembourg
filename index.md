@@ -25,9 +25,6 @@ Moien! Welcome to the Luxembourg OWASP chapter homepage!
 ---------------------
 Please follow OWASP Luxembourg Chapter on <a href="https://twitter.com/OWASPLuxembourg">Twiter</a>/<a href="https://facebook.com/OWASPLuxembourg">Facebook</a>/<a href="https://meetup.com/OWASP-Luxembourg">MeetUp</a>/<a href="https://owasplondon.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owaspluxembourg">LinkedIN Page</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/Luxembourg/join">sign up to our mailing list</a> to be notified about the upcoming OWASP London Chapter events.
 
-## Chapter sponsors
-{% include sponsors.md %}
-
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
