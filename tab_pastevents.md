@@ -2,7 +2,7 @@
 
 title: pastevents
 displaytext: Upcoming & Past Events
-layout: col-sidebar
+layout: null
 tab: true
 order: 3
 tags: Luxembourg
