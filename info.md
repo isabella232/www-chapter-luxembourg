@@ -3,5 +3,5 @@
 * [Google Groups](https://groups.google.com/u/1/a/owasp.org/g/luxembourg-chapter/)
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/owasp-luxembourg-group/)
+* [Social Link]
