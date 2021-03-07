@@ -6,3 +6,4 @@
 * [Meetup](https://www.meetup.com/owasp-luxembourg-group/)
 * [Twitter](https://twitter.com/LuxembourgOwasp)
 * [LinkedIn Group](https://www.linkedin.com/groups/9026319)
+* [LinkedIn Page](https://www.linkedin.com/company/owasp-luxembourg/)
