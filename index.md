@@ -11,7 +11,7 @@ region: Europe
 Moien! Welcome to the OWASP Luxembourg chapter homepage!
 
 ## News
-* **OWASP BeNeLux Days 2021** Stay tuned and keep an eye on https://www.owaspbenelux.eu
+* **OWASP BeNeLux Days 2022** Stay tuned and keep an eye on https://www.owaspbenelux.eu
 
 ## Get involved
 * **Volunteer to be a Speaker**:    
