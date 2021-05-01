@@ -1,12 +1,10 @@
 ---
-
 title: pastevents
-displaytext: Upcoming & Past Events
-layout: null
+displaytext: Past Events
+layout: col-sidebar
 tab: true
-order: 3
+order: 1
 tags: Luxembourg
-
 ---
 
 ## Past Events
