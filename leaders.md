@@ -3,4 +3,4 @@
 * [Raffaele Perrone](mailto:raffaele.perrone@owasp.org)
 
 ### Board Members
-* [You? We are looking for board members]
+* Interested? We are looking for board members!
