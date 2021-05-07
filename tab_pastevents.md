@@ -1,10 +1,12 @@
 ---
+
 title: pastevents
 displaytext: Past Events
 layout:
 tab: true
 order: 1
 tags: Luxembourg
+
 ---
 
 ## Past Events
