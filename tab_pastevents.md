@@ -1,7 +1,7 @@
 ---
 title: pastevents
 displaytext: Past Events
-layout: col-sidebar
+layout:
 tab: true
 order: 1
 tags: Luxembourg
