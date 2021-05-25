@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Luxembourg Chapter 
+title: OWASP Luxembourg 
 tags: luxembourg, Luxembourg
 region: Europe
 country: Luxembourg
