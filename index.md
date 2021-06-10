@@ -18,6 +18,7 @@ Moien! Welcome to the OWASP Luxembourg chapter homepage!
 
 {% include chapter_events.html group=page.meetup-group %} 
 
+
 We will be kicking off the first OWASP Luxembourg Chapter meetings.
 
 We will present OWASP, the Luxembourg Chapter and the next events and activities we are planning.
