@@ -31,7 +31,7 @@ Who should attend?
 ## Get involved
 * **Volunteer to be a Speaker**:    
   We are continuously looking for speakers. Call For Speakers is open. If you would like to present a talk on Application Security at future OWASP Luxembourg Chapter 
-events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the [Chapter Leaders](leaders.md) via e-mail.
+events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/) and send the proposed talk title, abstract and speaker bio to the [Chapter Leaders](leaders.md) via e-mail.
   
 * **Follow us on Social Media and Mailing List**: 
 Please follow OWASP Luxembourg Chapter on our social media (coming soon) and sign up to our mailing listto be notified about the upcoming OWASP Luxembourg Chapter events.
