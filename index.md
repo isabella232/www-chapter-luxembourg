@@ -14,19 +14,7 @@ meetup-group: owasp-luxembourg-group
 Moien! Welcome to the OWASP Luxembourg chapter homepage!
 
 ## Upcoming Chapter events
-* **Meeting#1 - Getting to know OWASP** Thu, Jun 17 2021 · 17:30-18:15 GMT+2 RSVP in [our MeetUp event here](https://www.meetup.com/owasp-luxembourg-group/events/278377750)
-
-{% include chapter_events.html group=page.meetup-group %} 
-
-
-We will be kicking off the first OWASP Luxembourg Chapter meetings.
-
-We will present OWASP, the Luxembourg Chapter and the next events and activities we are planning.
-
-Who should attend?
-* Both existing OWASP members and people unfamiliar with OWASP.
-* Information security practitioners of all levels, IT professionals, and business leaders.
-* Developers, development managers, product owners, QA professionals, program managers, and anyone involved in building software, etc.
+TBD soon
 
 ## News
 * **OWASP BeNeLux Days 2022** Stay tuned and keep an eye on https://www.owaspbenelux.eu
