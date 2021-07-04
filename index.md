@@ -18,6 +18,8 @@ TBD soon
 
 ## News
 * **OWASP BeNeLux Days 2022** Stay tuned and keep an eye on https://www.owaspbenelux.eu
+* **OWASP Luxembourg is proudly celebrating OWASP’s 20th Anniversary!** OWASP will be celebrating its 20th Anniversary on September 24, 2021!  https://20thanniversary.owasp.org
+[![OWASP 20th Anniversary Image](assets/images/OWASP%2020th.png)](https://20thanniversary.owasp.org/)
 
 ## Get involved
 * **Volunteer to be a Speaker**:    
