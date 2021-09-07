@@ -1,5 +1,5 @@
 ### Leaders
-* [Yasser Aboukir](mailto:yasser.aboukir@owasp.org)
+* [Yasser ABOUKIR](mailto:yasser.aboukir@owasp.org)
 * [Dang Vinh TRAN](mailto:dangvinh.tran@owasp.org)
 
 ### Board Members
