@@ -28,9 +28,9 @@ Brian has over 20 years of experience in various roles in IT and over a decade a
 **Who should attend?**
 Both existing OWASP members and people unfamiliar with OWASP. Information security practitioners of all levels, IT professionals, and business leaders. Developers, development managers, product owners, QA professionals, program managers, and anyone involved in building software, etc.
 
-![Brian Glas photo](https://avatars.sched.co/9/ab/13475802/avatar.jpg =250x250)
 
-<img src="https://avatars.sched.co/9/ab/13475802/avatar.jpg" align="left" width="200" height="200" />
+<img src="https://avatars.sched.co/9/ab/13475802/avatar.jpg" alt="Brian Glas, OWASP Top Ten Leader" align="left" width="200" height="200" />
+
 
 ## News
 * **OWASP BeNeLux Days 2022** Stay tuned and keep an eye on https://www.owaspbenelux.eu
