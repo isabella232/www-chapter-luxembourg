@@ -22,7 +22,7 @@ Wednesday October 27th 2021 - 17:30-18:30 UTC/GMT+2 RSVP in our MeetUp event her
 **Description of the talk:** Learn about the new OWASP Top 10:2021 that was released in September, 2021. This talk will walk through the process we used to build the new Top 10 and provide a brief overview of each of the risk categories in this updated list. Hear how the OWASP Top 10:2021 can fit into your organization and provide a baseline for secure development.
 
 **About the speaker:**
-[![Brian Glas photo](https://avatars.sched.co/9/ab/13475802/avatar.jpg?4b0)]
+[![Brian Glas photo](https://avatars.sched.co/9/ab/13475802/avatar.jpg?4b0 =250x250)]
 Brian Glas, OWASP Top Ten Leader | Assistant Professor Of Computer Science, Union University
 Brian has over 20 years of experience in various roles in IT and over a decade and a half of that in application development and security. His day job is serving as an Assistant Professor teaching a full load of Computer Science and Cybersecurity classes at Union University. He helped build FedEx's AppSec team, worked on the Trustworthy Computing team at Microsoft, consulted on software security for years, and served as a project lead and active contributor for SAMM v1.1-2.0+ and OWASP Top 10 2017 and 2021.  Brian is a contributor to the RABET-V Pilot Program. He holds several Cybersecurity and IT certifications and is currently working on his Doctor of Computer Science in Cybersecurity and Information Assurance. 
 
