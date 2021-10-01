@@ -30,6 +30,8 @@ Both existing OWASP members and people unfamiliar with OWASP. Information securi
 
 ![Brian Glas photo](https://avatars.sched.co/9/ab/13475802/avatar.jpg =250x250)
 
+<img src="https://avatars.sched.co/9/ab/13475802/avatar.jpg" align="left" width="200" height="200" />
+
 ## News
 * **OWASP BeNeLux Days 2022** Stay tuned and keep an eye on https://www.owaspbenelux.eu
 * **OWASP Luxembourg is proudly celebrating OWASP’s 20th Anniversary!** OWASP will be celebrating its 20th Anniversary on September 24, 2021! [More details here](https://20thanniversary.owasp.org)
