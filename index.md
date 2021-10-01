@@ -15,7 +15,7 @@ Moien! Welcome to the OWASP Luxembourg chapter homepage!
 
 ## Upcoming Chapter events
 **Meeting#2021-02 - OWASP Top 10:2021 Overview**
-Wednesday October 27th 2021 - 17:30-18:30 UTC/GMT+2 RSVP in our MeetUp event here
+Wednesday October 27th 2021 - 17:30-18:30 UTC/GMT+2 RSVP in  [our MeetUp event here](https://www.meetup.com/owasp-luxembourg-group/events/281144615) 
 
 **Context:** As part of the Luxembourg Cyber Security Week, We will be lauching our second OWASP Luxembourg Chapter meeting.
 
