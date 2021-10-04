@@ -17,6 +17,8 @@ Moien! Welcome to the OWASP Luxembourg chapter homepage!
 **Meeting#2021-02 - OWASP Top 10:2021 Overview**
 Wednesday October 27th 2021 - 17:30-18:30 UTC/GMT+2 RSVP in  [our MeetUp event here](https://www.meetup.com/owasp-luxembourg-group/events/281144615) 
 
+{% include chapter_events.html group=page.meetup-group %}
+
 **Context:** As part of the Luxembourg Cyber Security Week, We will be lauching our second OWASP Luxembourg Chapter meeting.
 
 **Description of the talk:** Learn about the new OWASP Top 10:2021 that was released in September, 2021. This talk will walk through the process we used to build the new Top 10 and provide a brief overview of each of the risk categories in this updated list. Hear how the OWASP Top 10:2021 can fit into your organization and provide a baseline for secure development.
