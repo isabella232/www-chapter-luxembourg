@@ -3,4 +3,5 @@
 * [Dang Vinh TRAN - Co-leader](mailto:dangvinh.tran@owasp.org)
 
 ### Board Members
+* [Aurelien DIAS - Board Member](mailto:aurelien.dias@owasp.org)
 * Interested? We are looking for board members !
