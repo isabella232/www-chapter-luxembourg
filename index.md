@@ -14,23 +14,38 @@ meetup-group: owasp-luxembourg-group
 Moien! Welcome to the OWASP Luxembourg chapter homepage!
 
 ## Upcoming Chapter events
-**Meeting#2021-02 - OWASP Top 10:2021 Overview**
-Wednesday October 27th 2021 - 17:30-18:30 UTC/GMT+2 RSVP in  [our MeetUp event here](https://www.meetup.com/owasp-luxembourg-group/events/281144615) 
+**Meeting#2022-01 - OWASP Application Security Verification Standard (ASVS)**
+Tuesday March 8th 2022 - 18:0-18:45 UTC/GMT+2 RSVP in  [our MeetUp event here](https://www.meetup.com/owasp-luxembourg-group/events/281144615) 
 
 {% include chapter_events.html group=page.meetup-group %}
 
-**Context:** As part of the Luxembourg Cyber Security Week, We will be lauching our second OWASP Luxembourg Chapter meeting.
+**Subject:** OWASP Application Security Verification Standard (ASVS)
 
-**Description of the talk:** Learn about the new OWASP Top 10:2021 that was released in September, 2021. This talk will walk through the process we used to build the new Top 10 and provide a brief overview of each of the risk categories in this updated list. Hear how the OWASP Top 10:2021 can fit into your organization and provide a baseline for secure development.
+**Description of the talk:** Learn about the OWASP Application Security Verification Standard (ASVS) Project. The ASVS provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.. 
+This talk will walk through using the ASVS: 
+•	as a metric - Provide application developers and application owners with a yardstick with which to assess the degree of trust that can be placed in their Web applications,
+•	as guidance - Provide guidance to security control developers as to what to build into security controls in order to satisfy application security requirements, and
+•	during procurement - Provide a basis for specifying application security verification requirements in contracts.
 
 **About the speaker:**
-<img src="https://avatars.sched.co/9/ab/13475802/avatar.jpg" alt="Brian Glas, OWASP Top Ten Leader" align="left" width="200" height="200" />
+<img src=" https://media-exp1.licdn.com/dms/image/C4D16AQHDpacYwyTorg/profile-displaybackgroundimage-shrink_200_800/0/1548333735493?e=1650499200&v=beta&t=YIrdkpECwmEhPFq11uFlaeMbGFJtIoJAh9RUWENtit4" alt=" Josh Grossman, OWASP ASVS project co-Leader" align="left" width="200" height="200" />
 
-Brian Glas, OWASP Top Ten Leader | Assistant Professor Of Computer Science, Union University
-Brian has over 20 years of experience in various roles in IT and over a decade and a half of that in application development and security. His day job is serving as an Assistant Professor teaching a full load of Computer Science and Cybersecurity classes at Union University. He helped build FedEx's AppSec team, worked on the Trustworthy Computing team at Microsoft, consulted on software security for years, and served as a project lead and active contributor for SAMM v1.1-2.0+ and OWASP Top 10 2017 and 2021.  Brian is a contributor to the RABET-V Pilot Program. He holds several Cybersecurity and IT certifications and is currently working on his Doctor of Computer Science in Cybersecurity and Information Assurance. 
+Josh Grossman, OWASP ASVS project co-Leader | CTO, Bounce Security
+Josh has over 20 years of experience in various roles in IT and over a decade and a half of that in application development and security. Josh is passionate about application security and how organizations can address this without compromising their operations. His aim is to use his experience in application/information security consulting and software development as well as strong technical, business and problem solving skills to help organizations with this challenge. 
+Josh have several years of experience performing application and information security reviews, both hands-on and enquiry based.
+
+
+
+His other professional activities:
+- OWASP Israel Board Member since September 2018, one of the organisers of AppSec Israel, a free regional OWASP conference which in 2018 had almost 700 attendees and one of training committee co-chair for OWASP's Global AppSec Tel Aviv 2019 conference.
+- One of the Leaders of the OWASP ASVS project
+- Recognised as a contributor to the OWASP Proactive Controls, OWASP Juice Shop and OWASP Top 10 Risks projects.
+- Delivered talks at OWASP AppSec Israel 2017, OWASP AppSec USA 2018 and at local chapter meetings.
+- Have written articles for both Company blogs and also my personal blog.
 
 **Who should attend?**
 Both existing OWASP members and people unfamiliar with OWASP. Information security practitioners of all levels, IT professionals, and business leaders. Developers, development managers, product owners, QA professionals, program managers, and anyone involved in building software, etc.
+
 
 ## News
 * **OWASP BeNeLux Days 2022** Stay tuned and keep an eye on https://www.owaspbenelux.eu
