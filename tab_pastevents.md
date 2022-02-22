@@ -48,38 +48,33 @@ Both existing OWASP members and people unfamiliar with OWASP. Information securi
 ### Open Source Security hackathon Monday 25th October 2021
 We are pleased to participate in the Open Source Security hackathon - Monday 25th October 2021 and Tuesday 26th October 2021 - don't hesitate to join us online to improve open source security tools.
 [Link here](https://misp-project.org/hackathon/)
-🎯 𝗢𝗪𝗔𝗦𝗣 𝗭𝗮𝗽 𝗣𝗿𝗼𝘅𝘆
-🎯 𝐎𝐖𝐀𝐒𝐏 𝐌𝐨𝐝𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐨𝐫𝐞 𝐑𝐮𝐥𝐞 𝐒𝐞𝐭 (𝐂𝐑𝐒)
+  - **𝗢𝗪𝗔𝗦𝗣 𝗭𝗮𝗽 𝗣𝗿𝗼𝘅𝘆**
+  - **𝐎𝐖𝐀𝐒𝐏 𝐌𝐨𝐝𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐨𝐫𝐞 𝐑𝐮𝐥𝐞 𝐒𝐞𝐭 (𝐂𝐑𝐒)**
 
 
 ### OWASP Luxembourg is proudly celebrating OWASP’s 20th Anniversary! September 24, 2021
 OWASP will be celebrating its 20th Anniversary on September 24, 2021! [More details here](https://20thanniversary.owasp.org)
+
 [![OWASP 20th Anniversary Image](assets/images/OWASP%2020th.png)](https://20thanniversary.owasp.org/)
 
+
 ### The OWASP Luxembourg Chapter joined the Luxembourg CYBERSECURITY  ecosystem on June 2021
-
 [👉](🏼 https://ecosystem.cybersecurity-luxembourg.com/company/398)
-
 Thank you SECURITYMADEIN.LU team and we are looking forward to fruitful collaboration.6/24/2021
 
 
 ### Meeting#2021-01 - Getting to know OWASP
 Thu, Jun 17 2021 · 17:30-18:15 GMT+2 RSVP in our MeetUp event here
 {% include chapter_events.html group=page.meetup-group %}
-
 We will be kicking off the first OWASP Luxembourg Chapter meetings.
-
 We will present OWASP, the Luxembourg Chapter and the next events and activities we are planning.
-
 Who should attend?
-
 Both existing OWASP members and people unfamiliar with OWASP.
 Information security practitioners of all levels, IT professionals, and business leaders.
 Developers, development managers, product owners, QA professionals, program managers, and anyone involved in building software, etc.
 
 
 ### OWASP BeNeLux Day 2017
-
 We are proud to announce the dates of the next edition of BeNeLux OWASP
 Day\! The event will take place on 23 (trainings) and 24 (conference)
 November 2017, in Tilburg - The Netherlands.
