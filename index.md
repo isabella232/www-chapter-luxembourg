@@ -14,38 +14,24 @@ meetup-group: owasp-luxembourg-group
 Moien! Welcome to the OWASP Luxembourg chapter homepage!
 
 ## Upcoming Chapter events
-**Meeting#2022-01 - OWASP Application Security Verification Standard (ASVS)**
+**Meeting#2022-01 - Introduction to the OWASP Application Security Verification Standard (ASVS) v4.0.3" by Josh Grossman, OWASP ASVS project co-leader, CTO at Bounce Security**
 Tuesday March 8th 2022 - 18:0-18:45 UTC/GMT+2 RSVP in  [our MeetUp event here](https://www.meetup.com/owasp-luxembourg-group/events/281144615) 
 
 {% include chapter_events.html group=page.meetup-group %}
 
-**Subject:** OWASP Application Security Verification Standard (ASVS)
+**Subject:** Introduction to the OWASP Application Security Verification Standard (ASVS) v4.0.3"
 
-**Description of the talk:** Learn about the OWASP Application Security Verification Standard (ASVS) Project. The ASVS provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.. 
-This talk will walk through using the ASVS: 
-•	as a metric - Provide application developers and application owners with a yardstick with which to assess the degree of trust that can be placed in their Web applications,
-•	as guidance - Provide guidance to security control developers as to what to build into security controls in order to satisfy application security requirements, and
-•	during procurement - Provide a basis for specifying application security verification requirements in contracts.
+**Description of the talk:** 
+OWASP’s Application Security Verification Standard (ASVS) is one of the few comprehensive guides of security requirements for applications. The 4.0 version, released in March 2019 represents a significant update with many new features as well as structural changes. In this talk, Josh, one of the project co-leaders, will go through what the ASVS is and how it is put together with a particular focus on what has changed in this new version. He will also talk through some of the more interesting new requirements and show how you can help shape the future of this important standard.
 
 **About the speaker:**
 <img src=" https://media-exp1.licdn.com/dms/image/C4D16AQHDpacYwyTorg/profile-displaybackgroundimage-shrink_200_800/0/1548333735493?e=1650499200&v=beta&t=YIrdkpECwmEhPFq11uFlaeMbGFJtIoJAh9RUWENtit4" alt=" Josh Grossman, OWASP ASVS project co-Leader" align="left" width="200" height="200" />
 
-Josh Grossman, OWASP ASVS project co-Leader | CTO, Bounce Security
-Josh has over 20 years of experience in various roles in IT and over a decade and a half of that in application development and security. Josh is passionate about application security and how organizations can address this without compromising their operations. His aim is to use his experience in application/information security consulting and software development as well as strong technical, business and problem solving skills to help organizations with this challenge. 
-Josh have several years of experience performing application and information security reviews, both hands-on and enquiry based.
-
-
-
-His other professional activities:
-- OWASP Israel Board Member since September 2018, one of the organisers of AppSec Israel, a free regional OWASP conference which in 2018 had almost 700 attendees and one of training committee co-chair for OWASP's Global AppSec Tel Aviv 2019 conference.
-- One of the Leaders of the OWASP ASVS project
-- Recognised as a contributor to the OWASP Proactive Controls, OWASP Juice Shop and OWASP Top 10 Risks projects.
-- Delivered talks at OWASP AppSec Israel 2017, OWASP AppSec USA 2018 and at local chapter meetings.
-- Have written articles for both Company blogs and also my personal blog.
+Josh Grossman, OWASP ASVS project co-leader, CTO at Bounce Security
+Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organisations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
 
 **Who should attend?**
 Both existing OWASP members and people unfamiliar with OWASP. Information security practitioners of all levels, IT professionals, and business leaders. Developers, development managers, product owners, QA professionals, program managers, and anyone involved in building software, etc.
-
 
 ## News
 * **OWASP BeNeLux Days 2022** Stay tuned and keep an eye on https://www.owaspbenelux.eu
