@@ -17,17 +17,14 @@ Moien! Welcome to the OWASP Luxembourg chapter homepage!
 **Meeting#2022-01 - Introduction to the OWASP Application Security Verification Standard (ASVS) v4.0.3" by Josh Grossman, OWASP ASVS project co-leader, CTO at Bounce Security**
 Tuesday March 8th 2022 - 18:0-18:45 UTC/GMT+2 RSVP in  [our MeetUp event here](https://www.meetup.com/owasp-luxembourg-group/events/281144615) 
 
-{% include chapter_events.html group=page.meetup-group %}
-
 **Subject:** Introduction to the OWASP Application Security Verification Standard (ASVS) v4.0.3"
 
 **Description of the talk:** 
 OWASP’s Application Security Verification Standard (ASVS) is one of the few comprehensive guides of security requirements for applications. The 4.0 version, released in March 2019 represents a significant update with many new features as well as structural changes. In this talk, Josh, one of the project co-leaders, will go through what the ASVS is and how it is put together with a particular focus on what has changed in this new version. He will also talk through some of the more interesting new requirements and show how you can help shape the future of this important standard.
 
-**About the speaker:**
-<img src=" https://media-exp1.licdn.com/dms/image/C4D16AQHDpacYwyTorg/profile-displaybackgroundimage-shrink_200_800/0/1548333735493?e=1650499200&v=beta&t=YIrdkpECwmEhPFq11uFlaeMbGFJtIoJAh9RUWENtit4" alt=" Josh Grossman, OWASP ASVS project co-Leader" align="left" width="200" height="200" />
+**About the speaker:** Josh Grossman, OWASP ASVS project co-leader, CTO at Bounce Security
+<img src="/assets/images/josh headshot 3.jpg" alt=" Josh Grossman, OWASP ASVS project co-Leader" align="left" width="200" height="200" />
 
-Josh Grossman, OWASP ASVS project co-leader, CTO at Bounce Security
 Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organisations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
 
 **Who should attend?**
@@ -35,9 +32,6 @@ Both existing OWASP members and people unfamiliar with OWASP. Information securi
 
 ## News
 * **OWASP BeNeLux Days 2022** Stay tuned and keep an eye on https://www.owaspbenelux.eu
-* **OWASP Luxembourg is proudly celebrating OWASP’s 20th Anniversary!** OWASP will be celebrating its 20th Anniversary on September 24, 2021! [More details here](https://20thanniversary.owasp.org)
-
-[![OWASP 20th Anniversary Image](assets/images/OWASP%2020th.png)](https://20thanniversary.owasp.org/)
 
 ## Get involved
 * **Volunteer to be a Speaker**:    
