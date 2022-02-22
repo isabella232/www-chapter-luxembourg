@@ -4,4 +4,5 @@
 
 ### Board Members
 * [Aurelien DIAS - Board Member](mailto:aurelien.dias@owasp.org)
+* [Daniel Morales - Board Member](mailto:josh.grossman@owasp.org)
 * Interested? We are looking for board members !
